@@ -16,17 +16,17 @@
 
 - 🚀 Our online presence:
 
-      Website : https://www.mc2mc.be/
+      Website: https://www.mc2mc.be/
       
-      Twitter : https://twitter.com/mc2mcbe
+      Twitter: https://twitter.com/mc2mcbe
       
-      LinkedIn : https://www.linkedin.com/company/mc2mcbe
+      LinkedIn: https://www.linkedin.com/company/mc2mcbe
       
-      Facebook Page : https://www.facebook.com/mc2mcbe/
+      Facebook Page: https://www.facebook.com/mc2mcbe/
       
-      Facebook Group : https://www.facebook.com/groups/827152711133705/
+      Facebook Group: https://www.facebook.com/groups/827152711133705/
       
-      Instagram : https://www.instagram.com/mc2mcbe/
+      Instagram: https://www.instagram.com/mc2mcbe/
 
 Thanks for supporting our community : follow us / share posts / retweet !
 
