@@ -12,7 +12,7 @@
 
 - 🌱 We're excited to share the latest content and experiences from our peers, aiming to inspire everyone to embrace new concepts in the Microsoft modern workplace, security, and the public cloud.
 
-- 🎬 Want to deliver a topic? We have a continuous call for speakers, just submit your session ideas!
+- 🎬 Interested in presenting a topic? We have a continuous call for speakers, simply submit your session ideas!
 
       Site: https://www.mc2mc.be/call-for-speakers/
       
