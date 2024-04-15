@@ -2,7 +2,7 @@
 
 - ☁ A belgian community focussing on three pillars: 
 
-      Microsoft Cloud: Azure and Microsoft Hybrid Cloud (IaaS, PaaS, SaaS, Hyper-V and Windows Server)
+      Microsoft Cloud: Azure and Microsoft Hybrid Cloud (IaaS, PaaS, SaaS, Azure Arc, Azure Stack HCI, Hyper-V and Windows Server)
 
       Enpoint and Security: Endpoint management and Security (M365, Security, Intune, Windows 10 and MDATP)
 
