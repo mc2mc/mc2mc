@@ -10,7 +10,7 @@
 
         
 
-- 🌱 We are eager to bring the most newest content and experience from our peers in a way that we can inspire everyone to work with new concepts of the modern workplace and the public cloud.
+- 🌱 We're excited to share the latest content and experiences from our peers, aiming to inspire everyone to embrace new concepts in the Microsoft modern workplace, security, and the public cloud.
 
 - 🎬 Want to deliver a topic? We have a continuous call for speakers, just submit your session ideas!
 
