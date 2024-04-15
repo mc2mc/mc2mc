@@ -1,6 +1,6 @@
 - 👋 Hi, we are MC2MC - Microsoft Cloud and Client Management Community 
 
-- ☁ A belgian community focussing on two pillars: Microsoft Cloud and Client Management
+- ☁ A belgian community focussing on three pillars: 
 
       Microsoft Cloud: Azure and Microsoft Hybrid Cloud (IaaS, PaaS, SaaS, Hyper-V and Windows Server)
 
