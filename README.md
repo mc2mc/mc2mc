@@ -2,9 +2,13 @@
 
 - ☁ A belgian community focussing on two pillars: Microsoft Cloud and Client Management
 
-      Cloud: Azure and Microsoft Hybrid Cloud (IaaS, PaaS, SaaS, Hyper-V and Windows Server)
+      Microsoft Cloud: Azure and Microsoft Hybrid Cloud (IaaS, PaaS, SaaS, Hyper-V and Windows Server)
 
-      Client Management: Endpoint management and endpoint security (M365, EMS, Windows 10 and MDATP)
+      Enpoint and Security: Endpoint management and Security (M365, Security, Intune, Windows 10 and MDATP)
+
+      Data and Compliance: Compliance and Microsoft Data and Power Platform (Purview, RPA, AI, Dynamics 365  and Power Automate)
+
+        
 
 - 🌱 We are eager to bring the most newest content and experience from our peers in a way that we can inspire everyone to work with new concepts of the modern workplace and the public cloud.
 
