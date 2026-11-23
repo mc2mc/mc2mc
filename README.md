@@ -16,8 +16,7 @@
 
       Site: https://www.mc2mc.be/call-for-speakers/
       
-      Sessionize : https://sessionize.com/CfS-MC2MC-2020 
-
+     
 - 🚀 Our online presence:
 
       Website: https://www.mc2mc.be/
